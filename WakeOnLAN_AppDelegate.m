@@ -422,7 +422,7 @@
         [alert release];
         alert = nil;
         
-        if (answer == NSAlertAlternateReturn) return NSTerminateCancel;
+        if (answer == NSAlertFirstButtonReturn) return NSTerminateCancel;
 
     }
 

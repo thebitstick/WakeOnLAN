@@ -9,7 +9,7 @@
 	<key>CFBundleIconFile</key>
 	<string>PowerButton.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.spgnola.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>com.spgnola.WakeOnLAN</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.9.2</string>
+	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
@@ -27,7 +27,7 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>${MACOSX_DEPLOYMENT_TARGET}</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2011 Perry M. Spagnola
+	<string>Copyright © 2011 Perry M. Spagnola, 2020 TheBitStick
 All rights reserved.</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
